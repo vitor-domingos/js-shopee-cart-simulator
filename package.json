@@ -1,0 +1,20 @@
+{
+  "name": "js-shopee-cart-simulator",
+  "version": "1.3.0",
+  "description": "Simulador de back-end para um sistema de carrinho de compras de e-commerce, desenvolvido em JavaScript puro com Node.js para demonstrar a lógica de negócio.",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [ "cart",
+  "shopping-cart",
+  "ecommerce",
+  "simulator",
+  "node",
+  "javascript",
+  "carrinho",
+  "compras"],
+  "author": "Vitor Domingos",
+  "license": "ISC"
+}
